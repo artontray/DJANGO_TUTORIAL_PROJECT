@@ -34,7 +34,7 @@ ALLOWED_HOSTS = ["django-tutorial-documentation.herokuapp.com", "localhost"]
 # Application definition
 
 INSTALLED_APPS = [
-    'polls.apps.PollsConfig',
+    'polls',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
